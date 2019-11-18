@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b9b2e83-cc46-4d3a-b972-c2310591c773" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c6gfmetTVagzrsHbqjAo4BBhOV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LickingHeights.Main" />
+      <module name="AllAboutArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9b2e83-cc46-4d3a-b972-c2310591c773" name="Default Changelist" comment="" />
+      <created>1589854562367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589854562367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589854596186">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="294" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1589854596186" />
+    <state x="569" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589854593258">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="569" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1589854593258" />
+    <state x="536" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1589854566086">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="536" y="349" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1589854566086" />
+  </component>
+</project>
