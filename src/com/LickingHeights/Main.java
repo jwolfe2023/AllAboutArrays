@@ -3,7 +3,6 @@ package com.LickingHeights;
 public class Main {
 
     public static void main(String[] args) {
-<<<<<<< HEAD
 //        int size = 10;
 //        int lowestNumber = 0;
 //        int highestNumber = 10;
@@ -11,18 +10,7 @@ public class Main {
 
 //        int[] array = createNumberArray(size, lowestNumber, highestNumber);
 
-            Pattern1();
-=======
-        // write your code here
-        int size = 10;
-        int lowestNumber = 0;
-        int highestNumber = 10;
-
-
-        int[] array = createNumberArray(size, lowestNumber, highestNumber);
-
-        
->>>>>>> master
+            Pattern5();
 
     }
 
@@ -49,14 +37,13 @@ public class Main {
         return number;
     }
 
-<<<<<<< HEAD
     public static void Pattern1 (){
 
         for(int i=0; i < 6; i++){
 
             for(int columns = 0; columns < 6; columns++) {
 
-                System.out.print("* ");
+                System.out.println("* ");
 
             }
 
@@ -65,9 +52,20 @@ public class Main {
         }
 
     }
-=======
 
->>>>>>> master
+    public static void Pattern2 (){
 
+        for(int row=1; row < 7; row++){
 
+            for(int column=0; column < 6; column++){
+
+                System.out.print(row+" ");
+
+            }
+
+            System.out.println();
+
+        }
+
+    }
 }
