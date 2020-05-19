@@ -18,6 +18,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
@@ -50,6 +51,26 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="569" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1589854593258" />
+    <state width="1637" height="285" key="GridCell.Tab.0.bottom" timestamp="1589855286941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589855286941" />
+    <state width="1637" height="285" key="GridCell.Tab.0.center" timestamp="1589855286941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589855286941" />
+    <state width="1637" height="285" key="GridCell.Tab.0.left" timestamp="1589855286941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589855286941" />
+    <state width="1637" height="285" key="GridCell.Tab.0.right" timestamp="1589855286941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589855286941" />
+    <state x="341" y="167" key="SettingsEditor" timestamp="1589854646124">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="167" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1589854646124" />
     <state x="536" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1589854566086">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
