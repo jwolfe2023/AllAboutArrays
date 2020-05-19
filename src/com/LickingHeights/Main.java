@@ -83,4 +83,15 @@ public class Main {
         }
 
     }
+    public static void Pattern4 () {
+        for (int rows = 1; rows <= 6; rows++) {
+
+            for (int columns = 1; columns<=rows; columns++) {
+
+                System.out.print("* ");
+            }
+
+            System.out.println();
+        }
+    }
 }
