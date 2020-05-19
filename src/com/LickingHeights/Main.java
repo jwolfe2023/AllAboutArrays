@@ -68,4 +68,19 @@ public class Main {
         }
 
     }
+    public static void Pattern3 (){
+
+        for(int row=1; row < 7; row++){
+
+            for(int column=1; column < 7; column++){
+
+                System.out.print(column+" ");
+
+            }
+
+            System.out.println();
+
+        }
+
+    }
 }
