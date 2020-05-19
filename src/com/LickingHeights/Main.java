@@ -68,6 +68,7 @@ public class Main {
         }
 
     }
+
     public static void Pattern3 (){
 
         for(int row=1; row < 7; row++){
@@ -83,12 +84,29 @@ public class Main {
         }
 
     }
+
     public static void Pattern4 () {
+        
         for (int rows = 1; rows <= 6; rows++) {
 
             for (int columns = 1; columns<=rows; columns++) {
 
                 System.out.print("* ");
+            }
+
+            System.out.println();
+        }
+    }
+
+    public static void Pattern5 () {
+
+        for (int rows = 1; rows <=6; rows ++) {
+
+            for (int columns = 1; columns <=rows; columns++) {
+
+
+
+                System.out.print(columns+" ");
             }
 
             System.out.println();
